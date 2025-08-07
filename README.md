@@ -28,7 +28,7 @@ This project does not redistribute the dataset — only the analysis is provided
 - `profitable-app-profiles-ios-android.ipynb`: Full notebook with analysis, insights, and commentary
 
 ---
-🧠 This analysis was originally developed as a guided project on [Dataquest](https://www.dataquest.io/).  
+This analysis was originally developed as a guided project on [Dataquest](https://www.dataquest.io/).  
 I expanded on the provided structure with my own explanations and interpretations.
 
 Feel free to explore the notebook and follow the analysis step by step. All code is clean, beginner-friendly, and well-documented.
